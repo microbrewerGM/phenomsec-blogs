@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "The Calculus Crossroads of Policy Pyramid"
 date:   2023-04-03 08:00:00
 categories: pyramid model

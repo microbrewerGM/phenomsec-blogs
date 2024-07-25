@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[# The Calculus Crossroads of Policy Pyramid](./2023-04-03-calculus-crossroads-of-policy-pyramid)
+# [The Calculus Crossroads of Policy Pyramid](./2023-04-03-calculus-crossroads-of-policy-pyramid)
 
 ## April 3, 2023
 
@@ -10,7 +10,7 @@ Exploration of an unconventional approach to understanding and managing informat
 
 [The Calculus Crossroads of Policy Pyramid](./2023-03-21-calculus-crossroads-policy-pyramid.md)
 
-[# Factorial Separation of Duties for Modern AppSec Compliance](./2023-03-21-factorial-separation-appsec-compliance.md)
+# [Factorial Separation of Duties for Modern AppSec Compliance](./2023-03-21-factorial-separation-appsec-compliance.md)
 
 ## March 21, 2023
 
