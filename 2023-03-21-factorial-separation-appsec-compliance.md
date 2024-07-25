@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Factorial Separation of Duties for Modern AppSec Compliance"
 date:   2023-02-21 20:52:52
 categories: appsec compliance
