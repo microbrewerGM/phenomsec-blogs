@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Blog for Phenom Security Group
 ---
 
 # [The Calculus Crossroads of Policy Pyramid](./2023-04-03-calculus-crossroads-of-policy-pyramid)
