@@ -9,7 +9,7 @@ title: Blog for Phenom Security Group
 
 Exploration of an unconventional approach to understanding and managing information security frameworks. By drawing parallels between the Policy Pyramid and the mathematical concepts of derivatives and integrals, a novel framework is proposed for analyzing the interrelationships between different layers of the security hierarchy. The blog introduces a modified Policy Pyramid incorporating claims, guidelines, and configurations, and demonstrates how applying calculus-inspired principles of derivation and integration can enhance the development and management of security policies, processes, and standards. The ultimate goal is to create a more comprehensive and effective approach to IT security management.
 
-[The Calculus Crossroads of Policy Pyramid](./2023-03-21-calculus-crossroads-policy-pyramid.md)
+[The Calculus Crossroads of Policy Pyramid](./2023-03-21-calculus-crossroads-policy-pyramid)
 
 # [Factorial Separation of Duties for Modern AppSec Compliance](./2023-03-21-factorial-separation-appsec-compliance)
 
