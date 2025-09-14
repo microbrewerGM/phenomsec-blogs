@@ -15,10 +15,9 @@ This repository has been **cleaned and archived**. The modern website is now liv
 ```
 phenomsec-blogs/
 ├── archive/
-│   ├── blog-posts/          # Original blog articles
-│   ├── documentation/       # Legacy documentation
+│   ├── blog-posts/          # Original blog articles (2 posts)
+│   ├── documentation/       # Legacy documentation (1 file)
 │   └── images/             # Historical assets
-├── phenomsec-website/      # Next.js website source
 ├── LICENSE                 # MIT License
 └── README.md              # This file
 ```
@@ -58,7 +57,7 @@ The new website uses:
 - **Domain:** https://phenomsec.com
 - **Repository:** https://github.com/microbrewerGM/phenomsec-website
 
-For development work, use the new repository linked above.
+**Note:** Blog post summaries from the archive are displayed on the new site's "Latest Security Insights" section, but the full content remains archived here for reference.
 
 ---
 
