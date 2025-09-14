@@ -11,10 +11,11 @@ show_sidebar: true
 Author: Aaron Smith
 
 Original posting for [The Purple Book Club](https://www.thepurplebook.club/blog-posts/factorial-separation-of-duties-for-modern-appsec-compliance)
-
 Originally Posted: February 21, 2023
 
-## What's on the other side of the mountain? 
+## What's on the other side of the mountain?
+
+(../img/fact-separation-moutain-image-DALL.webp)
 
 The place where the customers and users of our software applications are; it’s what’s driving our organizations to climb over to the other side.
 
