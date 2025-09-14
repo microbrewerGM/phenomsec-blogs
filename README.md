@@ -1,32 +1,65 @@
-# Phenom Security Blog Repository
+# Phenom Security Legacy Archive
 
-**⚠️ DEPRECATION NOTICE**
+**⚠️ ARCHIVE NOTICE**
 
-This repository has been **archived** and is no longer maintained.
+This repository has been **cleaned and archived**. The modern website is now live!
 
-## New Website Location
+## 🚀 New Website
 
-The Phenom Security website has been modernized and moved to:
+**Live Site:** https://phenomsec.com
+**Source Code:** https://github.com/microbrewerGM/phenomsec-website
+**Technology:** Next.js 15 + Vercel + Enterprise Features
 
-🚀 **Live Site:** https://phenomsec.com
-📂 **Source Code:** https://github.com/microbrewerGM/phenomsec-website
+## 📁 Repository Structure
 
-## What Changed
+```
+phenomsec-blogs/
+├── archive/
+│   ├── blog-posts/          # Original blog articles
+│   ├── documentation/       # Legacy documentation
+│   └── images/             # Historical assets
+├── phenomsec-website/      # Next.js website source
+├── LICENSE                 # MIT License
+└── README.md              # This file
+```
 
-- **Old:** Jekyll-based GitHub Pages site
-- **New:** Modern Next.js website with enterprise features
-- **Hosting:** Migrated from GitHub Pages to Vercel
-- **Features:**
-  - Professional contact forms
-  - Mobile-responsive design
-  - Enterprise-focused messaging
-  - Modern cybersecurity branding
+## 🔄 Migration Summary
 
-## Archive Contents
+**Before:**
+- Jekyll-based GitHub Pages
+- Basic static site
+- Limited functionality
 
-This repository now serves as an archive containing:
-- Legacy blog posts and documentation
-- Historical Jekyll configuration
-- Original content that was migrated to the new site
+**After:**
+- Modern Next.js website
+- Enterprise-focused design
+- Professional contact forms
+- Mobile-responsive
+- Vercel hosting
+- GitOps workflow
 
-For all new content and updates, please visit the new website and repository.
+## 📚 Archive Contents
+
+### Blog Posts
+- `2023-03-21` - Factorial Separation of Duties for Modern AppSec Compliance
+- `2023-04-03` - The Calculus Crossroads of Policy Pyramid
+
+### Documentation
+- Original technical documentation
+- Legacy configuration files
+- Historical assets and images
+
+## 🛠️ Development
+
+The new website uses:
+- **Framework:** Next.js 15 with App Router
+- **Styling:** Tailwind CSS
+- **Deployment:** Vercel
+- **Domain:** https://phenomsec.com
+- **Repository:** https://github.com/microbrewerGM/phenomsec-website
+
+For development work, use the new repository linked above.
+
+---
+
+*This archive preserves the original content while the business operates from the modern website.*
